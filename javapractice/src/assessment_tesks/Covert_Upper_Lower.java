@@ -23,7 +23,5 @@ public class Covert_Upper_Lower {
 
 	        System.out.println("After Convering : "+result);
 	    }
-	
-
 
 }
